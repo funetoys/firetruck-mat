@@ -6,4 +6,4 @@ Device: LilyTiny from SparkFun.
 
 Board: ATTinyCore - ATTiny25/45/85
 
-Port: USBTinyISP
+Programmer: USBTinyISP
